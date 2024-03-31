@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
     # INSTALLED APPS
     'crispy_forms',
-    'crispy_bootstrap4',
+    #'crispy_bootstrap4',
     'phonenumber_field',
     'widget_tweaks',
 
